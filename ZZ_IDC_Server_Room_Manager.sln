@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDC_rack_photo_library", "IDC_rack_photo_library\IDC_rack_photo_library.csproj", "{AE9B0F8A-ED7F-496E-86CE-50C5993CFF41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDC_Manager_Login_test", "IDC_Manager_Login\IDC_Manager_Login_test.csproj", "{05D08B80-4805-4803-862B-EB0FD0028556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE9B0F8A-ED7F-496E-86CE-50C5993CFF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9B0F8A-ED7F-496E-86CE-50C5993CFF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9B0F8A-ED7F-496E-86CE-50C5993CFF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9B0F8A-ED7F-496E-86CE-50C5993CFF41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D08B80-4805-4803-862B-EB0FD0028556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D08B80-4805-4803-862B-EB0FD0028556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D08B80-4805-4803-862B-EB0FD0028556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D08B80-4805-4803-862B-EB0FD0028556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E14141B2-CA7F-4C95-9106-7BAC0E0C2461}
+	EndGlobalSection
+EndGlobal
