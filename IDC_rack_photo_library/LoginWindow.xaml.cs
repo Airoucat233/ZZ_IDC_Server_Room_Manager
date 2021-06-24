@@ -134,5 +134,9 @@ namespace IDC_Manager_Login
 
             }
 
+        private void DragMoveWindow(object sender, MouseButtonEventArgs e)
+        {
+
+        }
     }
     }
